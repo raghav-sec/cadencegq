@@ -9,7 +9,7 @@
   "author": "cloudrac3r",
   "license": "GPL-3.0-only",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "buffer-signature": "^1.1.0",
     "fast-xml-parser": "^3.19.0",
     "feed": "github:cloudrac3r/feed#f42b4d7183fc2b6e566cb400ad083c4dd714c858",
